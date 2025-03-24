@@ -209,6 +209,18 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies.png" group-title="电影", 天映 - 国粤切换
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO Family
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO MUNDI
+http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="HBO"tvg-logo=""group-title="HBO",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
 
 #电视剧
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/bjtjc.png" group-title="电视剧",淘剧场
