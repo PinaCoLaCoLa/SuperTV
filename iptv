@@ -234,23 +234,18 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",NBA TV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",香蕉
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",4
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",惊艳
-http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",潘多拉
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",2
+http://18.svi-studio.com:8880/live/624372101145/418430465490/2.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",3
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",松視1台
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",JY
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",SS1
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",松視2台
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",SS2
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",松視3台
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",Jenny For You
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png" group-title="Sport",VISIT-X
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
 
 
