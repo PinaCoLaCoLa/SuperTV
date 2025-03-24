@@ -165,18 +165,14 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #高清频道
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="高清频道",CCTV 4K
 http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 4K
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="高清频道",TVB翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
 #电影
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/bjtdy.png" group-title="电影",淘电影
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影",漫威影院
-http://1.94.31.214:35455/douyu/1713615
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/超级电影.png" group-title="电影",超级电影
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
-#EXTINF:-1 tvg-name="CINEMAWORLD" tvg-logo="https://live.fanmingming.cn/tv/CINEMAWORLD.png" group-title="电影",CINEMAWORLD
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies.png" group-title="电影", 天映 - 国粤切换
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 
